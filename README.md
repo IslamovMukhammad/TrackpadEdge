@@ -4,6 +4,8 @@
 
 # TrackpadEdge
 
+[![CI](https://github.com/IslamovMukhammad/TrackpadEdge/actions/workflows/ci.yml/badge.svg)](https://github.com/IslamovMukhammad/TrackpadEdge/actions/workflows/ci.yml)
+
 **Slide two fingers in from the edge of your trackpad, then up or down: right edge = volume, left edge = brightness.**
 
 A free, open-source menu-bar app for macOS, with ten on-screen indicator styles to choose from.
